@@ -1,0 +1,16 @@
+C:\Users\Robz PC\repos\Varibles3\Varibles3\bin\Debug\net5.0\Varibles3.exe
+C:\Users\Robz PC\repos\Varibles3\Varibles3\bin\Debug\net5.0\Varibles3.deps.json
+C:\Users\Robz PC\repos\Varibles3\Varibles3\bin\Debug\net5.0\Varibles3.runtimeconfig.json
+C:\Users\Robz PC\repos\Varibles3\Varibles3\bin\Debug\net5.0\Varibles3.runtimeconfig.dev.json
+C:\Users\Robz PC\repos\Varibles3\Varibles3\bin\Debug\net5.0\Varibles3.dll
+C:\Users\Robz PC\repos\Varibles3\Varibles3\bin\Debug\net5.0\ref\Varibles3.dll
+C:\Users\Robz PC\repos\Varibles3\Varibles3\bin\Debug\net5.0\Varibles3.pdb
+C:\Users\Robz PC\repos\Varibles3\Varibles3\obj\Debug\net5.0\Varibles3.csproj.AssemblyReference.cache
+C:\Users\Robz PC\repos\Varibles3\Varibles3\obj\Debug\net5.0\Varibles3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robz PC\repos\Varibles3\Varibles3\obj\Debug\net5.0\Varibles3.AssemblyInfoInputs.cache
+C:\Users\Robz PC\repos\Varibles3\Varibles3\obj\Debug\net5.0\Varibles3.AssemblyInfo.cs
+C:\Users\Robz PC\repos\Varibles3\Varibles3\obj\Debug\net5.0\Varibles3.csproj.CoreCompileInputs.cache
+C:\Users\Robz PC\repos\Varibles3\Varibles3\obj\Debug\net5.0\Varibles3.dll
+C:\Users\Robz PC\repos\Varibles3\Varibles3\obj\Debug\net5.0\ref\Varibles3.dll
+C:\Users\Robz PC\repos\Varibles3\Varibles3\obj\Debug\net5.0\Varibles3.pdb
+C:\Users\Robz PC\repos\Varibles3\Varibles3\obj\Debug\net5.0\Varibles3.genruntimeconfig.cache
